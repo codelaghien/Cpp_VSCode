@@ -1,0 +1,20 @@
+{
+	"configurations": [
+		{
+			"name": "Win32",
+			"includePath": [
+				"${workspaceFolder}/**",
+				"C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/*",
+				"C:/Program Files (x86)/Windows Kits/10/Include",
+				"C:/Program Files (x86)/Windows Kits/10/Lib"
+			],
+			"defines": ["_DEBUG", "UNICODE", "_UNICODE"],
+			"windowsSdkVersion": "10.0.18362.0",
+			"compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.26.28801/bin/Hostx86/x86/cl.exe",
+			"intelliSenseMode": "msvc-x64",
+			"cStandard": "c11",
+			"cppStandard": "c++17"
+		}
+	],
+	"version": 4
+}

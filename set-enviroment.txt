@@ -1,0 +1,10 @@
+INCLUDE
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include;C:\Program Files (x86)\Windows Kits\10\Include;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\crt;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\atlmfc;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\cppwinrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt;
+
+LIB
+C:\Program Files (x86)\Windows Kits\10\Lib\10.0.18362.0;C:\Program Files (x86)\Windows Kits\10\Lib;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\lib;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\lib\x86;C:\Program Files (x86)\Windows Kits\10\Lib\10.0.18362.0\um\x86;C:\Program Files (x86)\Windows Kits\10\Lib\10.0.18362.0\ucrt\x86;
+
+
+Thêm vào trong PATH có sẳn:
+PATH
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\bin\Hostx86\x86
